@@ -1,0 +1,18 @@
+{
+  "totalMessages": 13,
+  "dailyMessages": 13,
+  "lastResetDay": "Sat Oct 25 2025",
+  "uniqueUsers": [],
+  "dailyUsers": [
+    "1123856956780728411",
+    "1176799957840306218"
+  ],
+  "allTimeUsers": [
+    "1123856956780728411",
+    "1176799957840306218"
+  ],
+  "voiceActivity": {
+    "totalTime": 0,
+    "sessions": []
+  }
+}
